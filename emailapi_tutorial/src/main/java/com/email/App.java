@@ -10,10 +10,6 @@ import jakarta.mail.Transport;
 import jakarta.mail.internet.InternetAddress;
 import jakarta.mail.internet.MimeMessage;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
